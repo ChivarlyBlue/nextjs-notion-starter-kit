@@ -77,6 +77,7 @@ export const Footer: React.FC<{
           </a>
         )}
       </div>
+      <a href='https://chivarlyblue.com' target='_blank'><img src='https://s4.ax1x.com/2022/01/22/7fFgoQ.gif' width='85' height=85'>
     </footer>
   )
 }
