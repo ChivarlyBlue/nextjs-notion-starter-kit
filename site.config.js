@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Knowledge Book',
-  domain: 'chivarlyblue.com',
+  domain: 'https://chivarlyblue.com',
   author: 'Chivarly Blue',
 
   // open graph metadata (optional)
